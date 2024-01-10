@@ -7,7 +7,7 @@ Implemented TCP and UDP program for the game rock, paper, scissor between two cl
 
 - tcp_client.c and tcp_server.c contain the code for sending and receiving basic text.
 - To run them, open TWO terminals - one for client and one for server.
-- cd into ```/networks/partA/basic```
+- cd into ```/basic```
 - In server terminal run:
   ```
   gcc tcp_server.c
@@ -23,7 +23,7 @@ Implemented TCP and UDP program for the game rock, paper, scissor between two cl
 #### 1.2 UDP - Basic Client Server Communication:
 - udp_client.c and udp_server.c contain the code for sending and receiving basic text.
 - To run them, open TWO terminals - one for client and one for server.
-- cd into ```/networks/partA/basic```
+- cd into ```/basic```
 - In server terminal run:
   ```
   gcc udp_server.c
@@ -47,7 +47,7 @@ Implemented TCP and UDP program for the game rock, paper, scissor between two cl
 
 - AtcpClientRPS.c, BtcpClientRPS and tcpServerRPS.c contain the code for rps.
 - To run them, open THREE terminals - two for client and one for server.
-- cd into ```/networks/partA/rps```
+- cd into ```/rps```
 - In server terminal run:
   ```
   gcc tcpServerRPS.c
@@ -71,7 +71,7 @@ Implemented TCP and UDP program for the game rock, paper, scissor between two cl
 
 - udpServerRPS.c, AudpClientRPS and BudpClientRPS.c contain the code for rps.
 - To run them, open THREE terminals - two for client and one for server.
-- cd into ```/networks/partA/rps```
+- cd into ```/rps```
 - In server terminal run:
   ```
   gcc udpServerRPS.c
